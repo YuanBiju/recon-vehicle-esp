@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP")(type "KiCad")(uri "${KIPRJMOD}/footprint-libs/ESP.pretty")(options "")(descr ""))
+  (lib (name "L298")(type "KiCad")(uri "${KIPRJMOD}/footprint-libs/L298.pretty")(options "")(descr ""))
+)
