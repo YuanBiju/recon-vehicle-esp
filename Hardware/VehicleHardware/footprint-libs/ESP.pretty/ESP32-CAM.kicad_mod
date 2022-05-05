@@ -1,6 +1,6 @@
 (footprint "ESP32-CAM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 626FBA99)
+  (tedit 6273533C)
   (attr through_hole)
   (fp_text reference "REF**" (at -9.525 -17.145) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -35,4 +35,9 @@
   (pad "14" thru_hole oval (at 11.43 -5.08) (size 2.8448 1.4224) (drill 1) (layers *.Cu *.Mask) (tstamp 50ab4f70-9c2a-4718-9da2-f05f2b8c29a2))
   (pad "15" thru_hole oval (at 11.43 -7.62) (size 2.8448 1.4224) (drill 1) (layers *.Cu *.Mask) (tstamp 59861efe-7796-4de9-b230-98b5e8569710))
   (pad "16" thru_hole oval (at 11.43 -10.16) (size 2.8448 1.4224) (drill 1) (layers *.Cu *.Mask) (tstamp a2a63aba-9bed-494d-8c1a-d2d48963fa1d))
+  (model "${KIPRJMOD}/3d-models/Ai-Thinker_ESP32-CAM.step"
+    (offset (xyz -11.5 10 1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
